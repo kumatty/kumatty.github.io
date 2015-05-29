@@ -6,7 +6,7 @@
 <meta name="keywords" content="Zerif, responsive, html, template, creative"/>
 <meta name="author" content="Mizanur Rahman" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Zerif - Responsive One Page Template</title>
+<title>miup Inc. Front Page</title>
 
 <!-- =========================
  FAV AND TOUCH ICONS  
@@ -150,9 +150,9 @@
 			<div class="service-icon">
 				<i class="pixeden pd-icon-heart"></i> <!-- FOCUS ICON-->
 			</div>
-			<h5 class="green-border-bottom">Wearable device</h5> <!-- FOCUS HEADING -->
+			<h5 class="green-border-bottom">Device</h5> <!-- FOCUS HEADING -->
 			<p> <!-- FOCUS DESCRIPTION -->
-				 ヘルスケアに関連するウェアラブルデバイスの開発、及びその販売をしています。</p>
+				 肌診断と化粧品の推薦を行う店舗設置型の測定器・タブレットとソフトウェアを設置します。</p>
 		</div>
 		<!-- / END FIRST FOCUS BOX. Other boxes has same format -->
 		
@@ -160,8 +160,8 @@
 			<div class="service-icon">
 				<span class="pixeden pd-icon-statistics"></span>
 			</div>
-			<h5 class="green-border-bottom">data analysis</h5>
-			<p>ビッグデータの取得、解析、及びその情報提供をいたします。		</p>
+			<h5 class="green-border-bottom">Data analysis</h5>
+			<p>設置デバイスから得られるデータを解析し、店舗毎の解析結果を提供します。。</p>
 		</div>
 		
 	  <div class="col-lg-3 col-sm-3 focus-box green wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
@@ -169,16 +169,16 @@
 				<i class="pixeden pd-icon-monitor"></i>
 			</div>
 			<h5 class="green-border-bottom">Marketing</h5>
-			<p>データ解析を活用した包括的なマーケティング支援サービスを企業向けに展開しております。 </p>
+			<p>各店舗から得られるデータとデバイスから得られるデータを統合的に解析し、店舗と消費者に適する商品ラインを提案します。</p>
 		</div>
 		
 	  <div class="col-lg-3 col-sm-3 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="service-icon">
 				<i class="pixeden pd-icon-user"></i> <!-- FOCUS ICON-->
 			</div>
-			<h5 class="green-border-bottom">consulting</h5> 
+			<h5 class="green-border-bottom">Consulting</h5> 
 			<!-- FOCUS HEADING -->
-			<p> <!-- FOCUS DESCRIPTION -->企業向けに、データ解析を利用したコンサルティングサービスを提供いたします。</p>
+			<p> 店舗ごとの各種売上を統合した解析結果を用いることで、戦略策定の効率と効果を最適化します。</p>
 	  </div>
 
 	<!-- / END 4 FOCUS BOXES -->
@@ -197,8 +197,7 @@
 <div class="color-overlay">
 	<h2 class="white-text">NEWS</h2>
 	<div class="wow fadeInRight animated" data-wow-offset="0" data-wow-duration="1.5s" data-wow-delay="0.15s"><h6 class="white-text">
-	 	  <p>2015.2 井上氏が参戦！</p>
-2015.2 やっとホームページが完成してくる
+	 	  <p>2015.5 miup Inc. 設立</p>
 	</h6>
 	</div>
 </div>
@@ -238,9 +237,9 @@
 			<div class="project-info">
 				<div class="project-details">
 					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
+					Under Preparation </h5>
 					<div class="details white-text">
-						Web Design
+						---
 					</div>
 				</div>
 			</div>
@@ -254,9 +253,9 @@
 			<div class="project-info">
 				<div class="project-details">
 					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
+					Under Preparation</h5>
 					<div class="details white-text">
-						Web Design
+						---
 					</div>
 				</div>
 			</div>
@@ -270,9 +269,9 @@
 			<div class="project-info">
 				<div class="project-details">
 					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
+					Under Preparation</h5>
 					<div class="details white-text">
-						Web Design
+						---
 					</div>
 				</div>
 			</div>
@@ -286,148 +285,16 @@
 			<div class="project-info">
 				<div class="project-details">
 					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
+					Under Preparation</h5>
 					<div class="details white-text">
-						Web Design
+						---
 					</div>
 				</div>
 			</div>
 			</a>
         </li>
         <!-- / PROJECT -->
-        
-        <!-- PROJECT -->	
-        <li class="wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.8s" data-wow-delay="0.15s">
-        <a href="project.html" class="more"><img src="images/portfolio/5.jpg" alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-		
-        <!-- PROJECT -->	
-        <li>
-        <a href="project.html" class="more"><img src="images/portfolio/6.jpg" alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-         
-         <!-- PROJECT -->	
-        <li>
-        <a href="project.html" class="more"><img src="images/portfolio/7.jpg"  alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-		
-         <!-- PROJECT -->	
-        <li class="wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.8s" data-wow-delay="0.15s">
-        <a href="project.html" class="more"><img src="images/portfolio/8.jpg"  alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-		
-        <!-- PROJECT -->	
-        <li class="wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.25s">
-        <a href="project.html" class="more"><img src="images/portfolio/9.jpg" alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-		
-        <!-- PROJECT -->	
-        <li class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.25s">
-        <a href="project.html" class="more"><img src="images/portfolio/10.jpg" alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-		
-        <!-- PROJECT -->	
-        <li class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.25s">
-        <a href="project.html" class="more"><img src="images/portfolio/11.jpg"  alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-		
-        <!-- PROJECT -->	
-        <li class="wow fadeInRight animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.25s">
-        <a href="project.html" class="more"><img src="images/portfolio/12.jpg"  alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Project Title </h5>
-					<div class="details white-text">
-						Web Design
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-
-        <!-- ... -->
-		</ul>
-	</div>
-	<!-- END OF PORTFOLIO ITEMS-->
+        	<!-- END OF PORTFOLIO ITEMS-->
 </div>
 	
 	<!-- PROJECT DETAILS WILL BE LOADED HERE -->
