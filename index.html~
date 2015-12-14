@@ -36,9 +36,9 @@
 <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,400italic|Montserrat:700,400|Homemade+Apple' rel='stylesheet' type='text/css'>
 
 <!--[if lt IE 9]>
-			<script src="js/html5shiv.js"></script>
-			<script src="js/respond.min.js"></script>
-		<![endif]-->
+<script src="js/html5shiv.js"></script>
+<script src="js/respond.min.js"></script>
+<![endif]-->
 
 <!-- JQUERY -->
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
@@ -109,7 +109,7 @@
 	<div class="section-header">
 		
 		<!-- SECTION TITLE -->
-		<h2 class="dark-text">Beauty & Technology</h2>
+		<h2 class="dark-text">Artificial Intelligence and Medical Health Care</h2>
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 		<h6>
@@ -127,7 +127,7 @@
 			<div class="service-icon">
 				<i class="pixeden pd-icon-heart"></i> <!-- FOCUS ICON-->
 			</div>
-			<h5 class="green-border-bottom">Device</h5> <!-- FOCUS HEADING -->
+			<h5 class="green-border-bottom">Cloud-based Artificial Intelligence</h5> <!-- FOCUS HEADING -->
 			<p> <!-- FOCUS DESCRIPTION -->
 				 肌診断と化粧品の推薦を行う店舗設置型の測定器・タブレットとソフトウェアを設置します。</p>
 		</div>
@@ -137,7 +137,7 @@
 			<div class="service-icon">
 				<span class="pixeden pd-icon-statistics"></span>
 			</div>
-			<h5 class="green-border-bottom">Data analysis</h5>
+			<h5 class="green-border-bottom">Big Data analysis</h5>
 			<p>設置デバイスから得られるデータを解析し、店舗毎の解析結果を提供します。。</p>
 		</div>
 		
@@ -145,7 +145,7 @@
 			<div class="service-icon">
 				<i class="pixeden pd-icon-monitor"></i>
 			</div>
-			<h5 class="green-border-bottom">Marketing</h5>
+			<h5 class="green-border-bottom">Marketing and Feedback</h5>
 			<p>各店舗から得られるデータとデバイスから得られるデータを統合的に解析し、店舗と消費者に適する商品ラインを提案します。</p>
 		</div>
 		
@@ -174,7 +174,7 @@
 <div class="color-overlay">
 	<h2 class="white-text">NEWS</h2>
 	<div class="wow fadeInRight animated" data-wow-offset="0" data-wow-duration="1.5s" data-wow-delay="0.15s"><h6 class="white-text">
-	 	  <p>2015.5 miup Inc. 設立</p>
+	 	  <p>2015.9 miup Inc. 設立</p>
 	</h6>
 	</div>
 </div>
@@ -234,7 +234,6 @@
 		
 				<p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<h6 class="white-text">
-
 				IT技術が日々進化し、私たちの周りは常に大量の情報で溢れています。<br>
 				しかし、ITの恩恵は、単なる情報の送受信をするだけでとどまって良いのでしょうか。<br>
 				いいえ。我々はその先にこそ本当の価値があるのだと考えます。<br>
@@ -295,7 +294,7 @@
 		</div>
 		<!-- / END MEMBER -->
 		
-		<div class="col-lg-3 col-sm-3">
+		<div class="col-lg-4 col-sm-4">
 			<div class="team-member">
 				<figure class="profile-pic">
 				<img src="images/team/pic2.jpg" alt="">
@@ -308,14 +307,12 @@
 				</div>
 				
 				<div class="details">
-					<p>
-						東京大学大学院農学生命科学科修士課程修了。外資系消費財メーカーにて商品開発、マーケティング業務に携わったのち独立。マーケティング担当。
-					</p>
+					<p>CEO of Jaba consulting which helps Japanese companies to develop business in BBD too. Masters degree in Agricultural science from Tokyo university. Branding and product Development experience at L'Oreal as a Product manager.</p>
 				</div>
 			</div>
 		</div>
 		
-		<div class="col-lg-3 col-sm-3">
+		<div class="col-lg-4 col-sm-4">
 			<div class="team-member">
 				<figure class="profile-pic">
 				<img src="images/team/pic3.jpg" alt="">
@@ -326,16 +323,13 @@
 						Co-Founder & CTO
 					</div>
 				</div>
-			
 				<div class="details">
-					<p>
-						京都大学大学院情報学研究科修士課程修了。Google本社にてソーシャル広告チームの立ち上げから製品のローンチまで携わったのち独立。開発全般担当。
-					</p>
+					<p>CTO of AI-based Human resource company too. MS in informatics from Kyoto University and EX-Google employee for Google for 3 years. Specialized in system integration and development, and machine learning. </p>
 				</div>
 			</div>
 		</div>
 		
-				<div class="col-lg-3 col-sm-3">
+				<div class="col-lg-4 col-sm-4">
 			<div class="team-member">
 				<figure class="profile-pic"> 
 				<img src="images/team/pic4.jpg" alt="Takanori Hasegaw"> <!-- MEMBER PROFILE PIC -->
@@ -348,9 +342,7 @@
 				</div>
 				
 				<div class="details">
-					<p>
-京都大学大学院情報学研究科博士後期課程短縮修了。博士(情報学)。東北大学・東北メディカルメガバンク機構助教。化粧品の推薦を行う人工知能の設計を担当。                     			
-					</p>
+					<p>Assistant Professor of Health Intelligence Center at the university of Tokyo. Also, a technology advisor of Japanese medical health care provider Medley, Inc. PhD in Informatics from Kyoto University. Specialized in statistical science, stochastic simulation and artificial intelligence for medical health care. </p>
 				</div>
 			</div>
 		</div>
@@ -396,7 +388,7 @@
 				  <dt>Co-founder CEO</dt>
 				  <dd>Mari Sakoh</dd>
 				  <dt>設立</dt>
-				  <dd>2015年6月</dd>
+				  <dd>Sep. 2015</dd>
 				  <dt>事業内容</dt>
 				  <dd>
 				    <p>・ヘルスケアに関連する携帯情報端末機周辺機器の開発、及びその販売</p>
@@ -494,7 +486,7 @@
 		<div class="icon-top green-text">
 		<i class="icon-fontawesome-webfont-329"></i>
 		</div>
-		 contact@miup.co.jp
+		 s.mari@miup.jp
 	</div>
 	
 	<!-- COMPANY PHONE NUMBER -->
@@ -502,7 +494,6 @@
 		<div class="icon-top blue-text">
 		<i class="icon-fontawesome-webfont-101"></i>
 		</div>
-		電話番号:050-
 	</div>
 	
 	
