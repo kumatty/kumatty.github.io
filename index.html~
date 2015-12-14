@@ -76,10 +76,8 @@
 				<li><a href="#home">Home</a></li>
 				<li><a href="#focus">Focus</a></li>
 				<li><a href="#works">Works</a></li>
-				<li><a href="#aboutus">About Us</a></li>
 				<li><a href="#team">Team</a></li>
-				<li><a href="#features">Features</a></li>
-				<li><a href="#products">Products</a></li>
+				<li><a href="#features">Overview</a></li>
 				<li><a href="#contact">Contact</a></li>
 			</ul>
 			</nav>
@@ -91,34 +89,13 @@
 	<div class="container">
 		
 		<!-- HEADING -->
-		<h1 class="intro">miup</h1>
+		<h1 class="intro"> </h1>
 		
 		<!-- CALL TO ACTION BUTTONS -->
-	  <div class="buttons">
-			<a href="#" class="btn btn-primary custom-button red-btn">Our Works</a>
-			<a href="#" class="btn btn-primary custom-button green-btn">Our Packages</a>
-		</div>
+<div align="center">
+	<img src="images/miup_logo.png" width="300" alt="miup">
+</div>
 		
-		<!-- 3 SHORT MESSAGE ABOUT COMPANY -->
-        <div class="row bottom-message-section">
-			<div class="col-lg-4 col-sm-4">
-				<div class="short-text">
-					<i class="icon icon-fontawesome-webfont-358"></i> Fixed price for packages
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-4">
-				<div class="short-text">
-					<i class="icon-fontawesome-webfont-286"></i> Quality product in time
-				</div>
-			</div>
-			<div class="col-lg-4 col-sm-4">
-				<div class="short-text">
-					<i class="icon-fontawesome-webfont-347"></i> Satisfaction guranteed
-				</div>
-			</div>
-		</div>
-	</div> <!-- / END BIG HEADING WITH CALL TO ACTION BUTTONS AND SHORT MESSAGES  -->
-	
 </header> <!-- / END HOME SECTION  -->
 
 <!-- =========================
@@ -215,193 +192,20 @@
 	<div class="section-header">
 		
 		<!-- SECTION TITLE -->
-		<h2 class="dark-text">Portfolio</h2>
+		<h2 class="dark-text">Works</h2>
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 		<h6>
-			We have designed and developed many awesome products. Just take a look. 
+		coming soon 
 		</h6>
 	</div>
-	<!-- / END SECTION HEADER -->
-	<div class="row projects">
-	<div id="loader">
-	    <div class="loader-icon"></div>
-	</div>
-	<div class="col-md-12" id="portfolio-list">
-		<!-- PORTFOLIO ITEMS-->
-		<ul class="cbp-rfgrid">
-		
-        <!-- PROJECT -->	
-        <li class="wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-        <a href="project.html" class="more"><img src="images/portfolio/1.jpg"  alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Under Preparation </h5>
-					<div class="details white-text">
-						---
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-        
-        <!-- PROJECT -->	
-        <li class="wow fadeInDown animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-        <a href="project.html" class="more"><img src="images/portfolio/2.jpg" alt="project" />
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Under Preparation</h5>
-					<div class="details white-text">
-						---
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-
-        <!-- PROJECT -->	
-        <li class="wow fadeInDown animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-        <a href="project.html" class="more"><img src="images/portfolio/3.jpg"  alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Under Preparation</h5>
-					<div class="details white-text">
-						---
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-        
-		<!-- PROJECT -->	
-        <li class="wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-        <a href="project.html" class="more"><img src="images/portfolio/4.jpg"  alt="project"/>
-			<div class="project-info">
-				<div class="project-details">
-					<h5 class="white-text red-border-bottom">
-					Under Preparation</h5>
-					<div class="details white-text">
-						---
-					</div>
-				</div>
-			</div>
-			</a>
-        </li>
-        <!-- / PROJECT -->
-        	<!-- END OF PORTFOLIO ITEMS-->
-</div>
-	
-	<!-- PROJECT DETAILS WILL BE LOADED HERE -->
-	<div id="loaded-content"></div>
-
-    <a id="back-button" class="red-btn" href="#"><i class="icon-fontawesome-webfont-27"></i> Go Back</a>
-	
+	<!-- / END SECTION HEADER -->				</div>
 </div> <!-- / END CONTAINER -->
 </section> <!-- / END WORKS SECTION -->
 
 
-<!-- =========================
-   ABOUT US SECTION   
-============================== -->
 
-<section class="about-us" id="aboutus">
-<div class="container">
-	
-	<!-- SECTION HEADER -->
-	<div class="section-header">
-		
-		<!-- SECTION TITLE -->
-		<h2 class="white-text">About US</h2>
-		
-		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
-		<h6 class="white-text">
-				　IT技術を、あなたの美と健康のために。 
-		</h6>
-	</div>
-	<!-- / END SECTION HEADER -->
-	
-	<!-- 3 COLUMNS OF ABOUT US-->
-	<div class="row">
-		
-		<!-- COLUMN 1 - BIG MESSAGE ABOUT THE COMPANY-->
-		<div class="col-lg-4 col-md-4 column">
-			<div class="big-intro wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-				 Developing Amazing Things for your Beautiful life.
-			</div>
-		</div>
-		
-		<!-- COLUMN 2 - BRIEF ABOUT THE COMPANY-->
-		<div class="col-lg-4 col-md-4 column">
-			<p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-			<h6 class="white-text">
 
-				 IT技術が日々進化し、私たちの周りは常に大量の情報で溢れています。しかし、ITの恩恵は、単なる情報の送受信をするだけでとどまって良いのでしょうか。いいえ。我々はその先にこそ本当の価値があるのだと考えます。
-                 miupでは、最先端の技術を操るチメンバーが、その技術を最大限に活かす研究を続けています。そして、みなさまの真の"美"と"健康"を追い求めたサービスやプロダクトを提供いたします。</h6>
-			</p>
-		</div>
-		
-		<!-- COLUMN 1 - SKILSS-->
-		<div class="col-lg-4 col-md-4 column">
-			<ul class="skills wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-				
-				<!-- SKILL ONE -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="86" data-thickness=".2" class="skill1">
-					</div>
-					<h6>Web Design</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-				<!-- SKILL TWO -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="80" data-thickness=".2" class="skill2">
-					</div>
-					<h6>development</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-				<!-- SKILL THREE -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="89" data-thickness=".2" class="skill3">
-					</div>
-					<h6>photography</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-				<!-- SKILL FOUR -->
-				<li class="skill">
-					<div class="skill-count">
-						<input type="text" value="95" data-thickness=".2" class="skill4">
-					</div>
-					<h6>SEO</h6>
-					<p>
-						We are expert on HTML development. Clean, semantic and valid HTML codes.
-					</p>
-				</li>
-				
-			</ul> 
-		</div> <!-- / END SKILLS COLUMN-->
-	</div> <!-- / END 3 COLUMNS OF ABOUT US-->
-
-	
-</div> <!-- / END CONTAINER -->
-
-</section> <!-- END ABOUT US SECTION -->
 
 <!-- =========================
    STATS              
@@ -412,57 +216,36 @@
 	    <!-- STATS -->
 	    <div class="row">
 	        
-	        <!-- START COLUMN -->
-	        <div class="col-lg-3 col-sm-3">
-	            <div class="stat wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-	                <div class="icon-top red-text">
-	                    <i class="icon-design-graphic-tablet-streamline-tablet"></i>
-	                </div>
-	                <div class="stat-text">
-	                <h3 class="white-text red-border-bottom">1,236</h3>
-	                <h6>Projects Completed</h6>
-	                </div>
-	            </div>
-	        </div> <!-- / END COLUMN -->
-	        
-	        <!-- START COLUMN -->
-	        <div class="col-lg-3 col-sm-3">
-	            <div class="stat wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.75s" data-wow-delay="0.30s">
-	                <div class="icon-top green-text">
-	                    <i class="icon-man-people-streamline-user"></i>
-	                </div>
-	                <div class="stat-text">
-	                <h3 class="white-text green-border-bottom">196</h3>
-	                <h6>Happy Clients</h6>
-	                </div>
-	            </div>
-	        </div> <!-- / END COLUMN -->
-	        
-	        <!-- START COLUMN -->
-	        <div class="col-lg-3 col-sm-3">
-	            <div class="stat wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2s" data-wow-delay="0.45s">
-	                <div class="icon-top blue-text">
-	                    <i class="icon-email-mail-streamline"></i>
-	                </div>
-	                <div class="stat-text">
-	                <h3 class="white-text blue-border-bottom">56,236</h3>
-	                <h6>Mail Conversation</h6>
-	                </div>
-	            </div>
-	        </div> <!-- / END COLUMN -->
-	        
-	        <!-- START COLUMN -->
-	        <div class="col-lg-3 col-sm-3">
-	            <div class="stat wow fadeInUp animated" data-wow-offset="30" data-wow-duration="2.25s" data-wow-delay="1s">
-	                <div class="icon-top yellow-text">
-	                    <i class="icon-picture-streamline-1"></i>
-	                </div>
-	                <div class="stat-text">
-	                <h3 class="white-text yellow-border-bottom">2,519</h3>
-	                <h6>Photos Taken</h6>
-	                </div>
-	            </div>
-	        </div> <!-- / END COLUMN -->
+	     	<!-- SECTION TITLE -->
+		<h2 class="white-text">About US</h2>
+		
+		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
+		<h6 class="white-text">
+				　IT技術を、あなたの美と健康のために。 
+		</h6>
+	</div	<h6 class="white-text">
+		</h6>
+>
+	<!-- / END SECTION HEADER -->
+	
+	<!-- 3 COLUMNS OF ABOUT US-->
+	<div class="row">
+	
+		
+				<p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+			<h6 class="white-text">
+
+				IT技術が日々進化し、私たちの周りは常に大量の情報で溢れています。<br>
+				しかし、ITの恩恵は、単なる情報の送受信をするだけでとどまって良いのでしょうか。<br>
+				いいえ。我々はその先にこそ本当の価値があるのだと考えます。<br>
+				miupでは、最先端の技術を操るチメンバーが、その技術を最大限に活かす研究を続けています。<br>
+				そして、みなさまの真の"美"と"健康"を追い求めたサービスやプロダクトを提供いたします。</h6>
+			</p>
+		</div>
+		
+
+	</div> <!-- / END 3 COLUMNS OF ABOUT US-->
+
 	    </div>
 </div>
 </section>  <!-- / END STATS -->
@@ -637,124 +420,8 @@
 </div> <!-- / END CONTAINER -->
 </section> <!-- / END FEATURES SECTION -->
 
-<!-- =========================
-   PRODUCTS SECTION   
-============================== -->
-
-<section class="products" data-type="background" data-speed="1" id="products">
-  <div class="color-overlay">
-    <div class="container">
       
-      <!-- SECTION HEADER -->
-      <div class="section-header">
-	
-	<!-- SECTION TITLE -->
-	<h2 class="white-text">Products</h2>
-	
-	<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
-	<h6 class="white-text">
-	  We design &amp; produce qaulity products &amp; service to help small &amp; medium level business.
-	</h6>
-      </div>
-      <!-- / END SECTION HEADER -->
-      
-      <!-- PRODUCTS -->
-      <div class="row wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-        
-        <!-- SINGLE PRODUCT -->
-        <div class="col-md-5">
-	  <div class="item item-1">
-	    <div class="item-overlay">
-	    </div>
-	    <div class="item-content">
-	      <div class="item-top-content">
-		<div class="item-top-content-inner">
-		  <div class="item-product">
-		    <div class="item-top-title">
-		      <h5>Small Business</h5>  <!-- PRODUCT TITLE-->
-		      <p class="subdescription">
-			Usual Price
-		      </p> <!-- PRODUCT DESCRIPTION-->
-		    </div>
-		  </div>
-		  <div class="item-product-price">
-		    <!-- PRICE -->
-		    <span class="price-num green-text">Free for 3 months</span> 
-		    <!-- OLD PRICE START -->
-		    <p class="subdescription">
-		      80yen/Transaction (Max 30,000)
-		    </p>
-		    <div class="old-price">
-		    </div> <!-- END OLD PRICE -->
-		  </div>
-		</div>
-	      </div>
-	      
-	      <!-- ITEM HOVER CONTENT-->
-	      <div class="item-add-content">
-		<div class="item-add-content-inner">
-		  <div class="section">
-		    <p>
-		      Creative WordPress Theme
-		    </p>
-		  </div>
-		  <div class="section">
-		    <a href="#" class="btn btn-primary custom-button red-btn">Demo</a><br/>
-		    <a href="#" class="btn btn-primary custom-button green-btn">Buy</a>
-		  </div>
-		</div>
-	      </div>
-	    </div>
-	  </div>
-	</div> 
-	<!-- / END FIRST ITEM -->	
-	
-	<div class="col-md-5">
-	  <div class="item item-2">
-	    <div class="item-overlay">
-	    </div>
-	    <div class="item-content">
-	      <div class="item-top-content">
-		<div class="item-top-content-inner">
-		  <div class="item-product">
-		    <div class="item-top-title">
-		      <h5>Midium</h5>
-		      <p  class="subdescription">
-			Usual Price
-		      </p>
-		    </div>
-		  </div>
-		  <div class="item-product-price">
-		    <span class="price-num green-text">Free for 3 months</span>
-		    <p class="subdescription">
-		      50yen/Transaction (Max 50,000)
-		    </p>
-		    <div class="old-price">
-		    </div>
-		  </div>
-		</div>
-	      </div>
-	      <div class="item-add-content">
-		<div class="item-add-content-inner">
-		  <div class="section">
-		    <p>
-		      Creative WordPress Theme
-		    </p>
-		  </div>
-		  <div class="section">
-		    <a href="#" class="btn btn-primary custom-button red-btn">Demo</a><br/>
-		    <a href="#" class="btn btn-primary custom-button green-btn">Buy</a>
-		  </div>
-		</div>
-	      </div>
-	    </div>
-	  </div>
-	</div> <!-- END FIRST ROW -->
-      </div> <!-- / END PRODUCTS LIST -->
-    </div> <!-- / END CONTAINER -->
-  </div> <!-- / END COLOR OVERLAY -->
-</section> <!-- / END PRODUCTS SECTION -->
-
+     
 <!-- =========================
    NEWSETTER          
 ============================== -->
