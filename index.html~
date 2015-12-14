@@ -273,11 +273,11 @@
 	<!-- TEAM MEMBERS -->
 	<div class="row wow fadeInRight animated" data-wow-offset="40" data-wow-duration="3s" data-wow-delay="0.15s">
 		<!-- MEMBER -->
-		<div class="col-lg-3 col-sm-3">
+		<!---div class="col-lg-3 col-sm-3">
 			<div class="team-member">
 				<figure class="profile-pic"> 
 				<img src="images/team/pic1.jpg" alt=""> <!-- MEMBER PROFILE PIC -->
-				</figure>
+				<!--/figure>
 				<div class="member-details">
 				  <h5 class="dark-text green-border-bottom">Minako Aikawa</h5>
 					<div class="position">
@@ -303,7 +303,7 @@
 				<div class="member-details">
 					<h5 class="dark-text green-border-bottom">Mari Sako</h5>
 					<div class="position">
-						Co-Founder & CMO
+						Co-Founder & CEO
 					</div>
 				</div>
 				
@@ -343,7 +343,7 @@
 				<div class="member-details">
 				  <h5 class="dark-text green-border-bottom">Takanori Hasegawa</h5>
 					<div class="position">
-						Co-Founder & Analysis Advisor
+						Co-Founder & Technology Advisor
 					</div>
 				</div>
 				
@@ -391,10 +391,10 @@
 		  <div class="feature">
 			
 			  <dl>
-				  <dt>会社名</dt>
-				  <dd>株式会社miup</dd>
-				  <dt>代表取締役</dt>
-				  <dd>相川美菜子</dd>
+				  <dt>About us</dt>
+				  <dd>miup Inc.</dd>
+				  <dt>Co-founder CEO</dt>
+				  <dd>Mari Sakoh</dd>
 				  <dt>設立</dt>
 				  <dd>2015年6月</dd>
 				  <dt>事業内容</dt>
