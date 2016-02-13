@@ -119,7 +119,7 @@
 	</div>
 	<!-- / END SECTION HEADER -->
 	
-	<!-- 4 FOCUS BOXES -->
+	<!-- 3 FOCUS BOXES -->
 	<div class="row">
 		
 		<!-- FIRST FOCUS BOXES -->
@@ -147,18 +147,10 @@
 			</div>
 			<h5 class="green-border-bottom">Marketing and Feedback</h5>
 			<p>各店舗から得られるデータとデバイスから得られるデータを統合的に解析し、店舗と消費者に適する商品ラインを提案します。</p>
-		</div>
-		
-	  <div class="col-lg-3 col-sm-3 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
-			<div class="service-icon">
-				<i class="pixeden pd-icon-user"></i> <!-- FOCUS ICON-->
-			</div>
-			<h5 class="green-border-bottom">Consulting</h5> 
-			<!-- FOCUS HEADING -->
-			<p> 店舗ごとの各種売上を統合した解析結果を用いることで、戦略策定の効率と効果を最適化します。</p>
+
 	  </div>
 
-	<!-- / END 4 FOCUS BOXES -->
+	<!-- / END 3 FOCUS BOXES -->
 	
 
 	
