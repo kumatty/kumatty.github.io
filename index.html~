@@ -113,42 +113,46 @@
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 		<h6>
-			一人一人のライフスタイルをテクノロジーで結びつけ、女性の新たなる美しさを追求します。
+			miup’s core mission is to utilize technology and AI to improve the quality of life in society. <br>
+			Our core strength is developing cutting edge A.I. technology to deliver transformational change in Healthcare. 
+
 
 		</h6>
 	</div>
 	<!-- / END SECTION HEADER -->
 	
-	<!-- 3 FOCUS BOXES -->
+	<!--3 FOCUS BOXES -->
 	<div class="row">
 		
 		<!-- FIRST FOCUS BOXES -->
-	  <div class="col-lg-3 col-sm-3 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+	  <div class="col-lg-4 col-sm-4 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="service-icon">
 				<i class="pixeden pd-icon-heart"></i> <!-- FOCUS ICON-->
 			</div>
-			<h5 class="green-border-bottom">Cloud-based Artificial Intelligence</h5> <!-- FOCUS HEADING -->
+			<h5 class="green-border-bottom">Artificial Intelligence</h5> <!-- FOCUS HEADING -->
 			<p> <!-- FOCUS DESCRIPTION -->
-				 肌診断と化粧品の推薦を行う店舗設置型の測定器・タブレットとソフトウェアを設置します。</p>
+				 Our key strengths are cutting edge A.I.technolog with the base of it, 
+we provide Healthcare software / system  for medical institutions .</p>
 		</div>
 		<!-- / END FIRST FOCUS BOX. Other boxes has same format -->
 		
-	  <div class="col-lg-3 col-sm-3 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+	  <div class="col-lg-4 col-sm-4 focus-box green wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="service-icon">
 				<span class="pixeden pd-icon-statistics"></span>
 			</div>
 			<h5 class="green-border-bottom">Big Data analysis</h5>
-			<p>設置デバイスから得られるデータを解析し、店舗毎の解析結果を提供します。。</p>
+			<p>By analyzing / integrating the medical data obtained from various devices /source with A.I.,we deriver higher quality decision-making and contribute to efficient and better quality of medical care.</p>
 		</div>
 		
-	  <div class="col-lg-3 col-sm-3 focus-box green wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
+	  <div class="col-lg-4 col-sm-4 focus-box green wow fadeInRight animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="service-icon">
-				<i class="pixeden pd-icon-monitor"></i>
+				<i class="pixeden pd-icon-user"></i>
 			</div>
-			<h5 class="green-border-bottom">Marketing and Feedback</h5>
-			<p>各店舗から得られるデータとデバイスから得られるデータを統合的に解析し、店舗と消費者に適する商品ラインを提案します。</p>
+			<h5 class="green-border-bottom">Social Desin and Feedback</h5>
+			<p>No matter how outstanding the technology is, it will not take root if we do not consider the context of the region / society. We design "Integrated eco-system", not just providing technology for a sustainable society.</p>
+		</div>
+		
 
-	  </div>
 
 	<!-- / END 3 FOCUS BOXES -->
 	
@@ -166,7 +170,7 @@
 <div class="color-overlay">
 	<h2 class="white-text">NEWS</h2>
 	<div class="wow fadeInRight animated" data-wow-offset="0" data-wow-duration="1.5s" data-wow-delay="0.15s"><h6 class="white-text">
-	 	  <p>2015.9 miup Inc. 設立</p>
+	 	  
 	</h6>
 	</div>
 </div>
@@ -213,7 +217,7 @@
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 		<h6 class="white-text">
-				　IT技術を、あなたの美と健康のために。 
+				　How much can IT contribute? 
 		</h6>
 	</div	<h6 class="white-text">
 		</h6>
@@ -226,11 +230,11 @@
 		
 				<p class="wow fadeInUp animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<h6 class="white-text">
-				IT技術が日々進化し、私たちの周りは常に大量の情報で溢れています。<br>
-				しかし、ITの恩恵は、単なる情報の送受信をするだけでとどまって良いのでしょうか。<br>
-				いいえ。我々はその先にこそ本当の価値があるのだと考えます。<br>
-				miupでは、最先端の技術を操るチメンバーが、その技術を最大限に活かす研究を続けています。<br>
-				そして、みなさまの真の"美"と"健康"を追い求めたサービスやプロダクトを提供いたします。</h6>
+				IT evolves everyday and we are always filled with large amount of information.<br>
+				But benefits of IT should not be limited to a mere exchanging of information. We believe there is real value beyond that.
+				At miup Inc. , our team members who are masters of the state-of-the-art technology, continue to research to maximize the value of technology.
+				We will keep on challenging for the people around the world to have access to better social welfare, from the technology perspective.</h6>
+				
 			</p>
 		</div>
 		
@@ -256,7 +260,10 @@
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 		<h6>
-			miupのチームは、プロの開発者やテクノロジスト、美容業界での経験豊富なマーケターなど、志の高いメンバーから構成されています。
+			miup team has cutting edge experience in Artifical Intelligence, Big Data Analytics, Genomics, System Integration and large scale database design. Moreover, We have broad experience in delivering market leading technology solutions in both Japan and developing countries. 
+At miup Inc., our team members not only leverage their past experience in  state-of-the-art AI, but continue to push the frontiers of technological innovation and translate the latest academic and research thinking into new innovations that deliver better healthcare. 
+We are especially focused on technology transfer and innovation from developed countries such as Japan to developing countries such as Bangladesh. Leveraging ICT and the latest  academic research and thinking, we are developing new Bottom of the Pyramid innovations and higher quality medical services at lower cost. 
+
 		</h6>
 	</div>
 	<!-- / END SECTION HEADER -->
@@ -278,7 +285,7 @@
 				
 				<div class="details">
 					<p>
-						慶應義塾大学環境情報学部在学。ねこが好き。
+						お疲れ様でーす
                      			
 					</p>
 				</div>
@@ -299,7 +306,7 @@
 				</div>
 				
 				<div class="details">
-					<p>CEO of Jaba consulting which helps Japanese companies to develop business in BBD too. Masters degree in Agricultural science from Tokyo university. Branding and product Development experience at L'Oreal as a Product manager.</p>
+					<p>CEO of Jaba consulting which helps Japanese companies to develop business in Bangladesh too. Masters degree in Agricultural science from Tokyo university. Branding and product Development experience at L'Oreal .</p>
 				</div>
 			</div>
 		</div>
@@ -310,13 +317,13 @@
 				<img src="images/team/pic3.jpg" alt="">
 				</figure>
 				<div class="member-details">
-				  <h5 class="dark-text green-border-bottom">Masahiro Inoue</h5>
+				  <h5 class="dark-text green-border-bottom">Tomoyuki Yamada(Ph.D)</h5>
 					<div class="position">
-						Co-Founder & CTO
+						 CTO
 					</div>
 				</div>
 				<div class="details">
-					<p>CTO of AI-based Human resource company too. MS in informatics from Kyoto University and EX-Google employee for Google for 3 years. Specialized in system integration and development, and machine learning. </p>
+					<p>PhD in Science from Tokyo University. Expert of system integration, data mining / cleansing for various type of data including medical of biological information. He was Assistant Professor of Tokyo University from 2003 to 2008.</p>
 				</div>
 			</div>
 		</div>
@@ -327,7 +334,7 @@
 				<img src="images/team/pic4.jpg" alt="Takanori Hasegaw"> <!-- MEMBER PROFILE PIC -->
 				</figure>
 				<div class="member-details">
-				  <h5 class="dark-text green-border-bottom">Takanori Hasegawa</h5>
+				  <h5 class="dark-text green-border-bottom">Takanori Hasegawa(Ph.D)</h5>
 					<div class="position">
 						Co-Founder & Technology Advisor
 					</div>
@@ -360,7 +367,7 @@
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 		<h6>
-			会社概要
+			
 		</h6>
 	</div>
 	<!-- / END SECTION HEADER -->
@@ -378,18 +385,13 @@
 				  <dt>About us</dt>
 				  <dd>miup Inc.</dd>
 				  <dt>Co-founder CEO</dt>
-				  <dd>Mari Sakoh</dd>
-				  <dt>設立</dt>
-				  <dd>Sep. 2015</dd>
-				  <dt>事業内容</dt>
-				  <dd>
-				    <p>・ヘルスケアに関連する携帯情報端末機周辺機器の開発、及びその販売</p>
-				    <p>・インターネット、携帯情報端末機（及びその周辺機器）を用いた大規模データの取得、解析、及び各種情報提供サービス</p>
-				    <p>・経営コンサルティング、及び各種マーケティングリサーチ業務</p>
-			    </dd>
-				  <dt>所在地</dt>
-				  <dd>〒150-0002 東京都渋谷区渋谷2-14-6西田ビル5F<br>
+				  <dd>MARI SAKO</dd>
+				
+				  <dt>Adress</dt>
+				  <dt><JAPAN>1-11-1 Kitayoshi,Nishi-ku, Yokohama.Kanagawa  <br>
+				  <dt><Bangladesh>Road - 113/A, Plot - 03, Gulshan - 2,Dhaka - 1212,BangladeshRoad - 113/A</dt>
 				    </dd>
+				    
 		    </dl>
             
 			  <h5>&nbsp;</h5>
@@ -429,8 +431,8 @@
 		<h2 class="white-text">contact</h2>
 		
 	  <!-- SHORT DESCRIPTION ABOUT THE SECTION -->
-	  <h6 class="white-text">株式会社miupの各種サービス・提携についてのご質問、資料請求や取材のご依頼などは、こちらのお問い合わせフォームからお願い致します。<br>
-	  なお、電話でのお問い合わせは原則受付けておりませんので、予めご了承ください。</h6>
+	  <!--h6 class="white-text">株式会社miupの各種サービス・提携についてのご質問、資料請求や取材のご依頼などは、こちらのお問い合わせフォームからお願い致します。<br>
+	  なお、電話でのお問い合わせは原則受付けておりませんので、予めご了承ください。</h6!-->
 	</div>
 	<!-- / END SECTION HEADER -->
 	
@@ -471,14 +473,14 @@
 		<div class="icon-top red-text">
 		    <i class="icon-fontawesome-webfont-302"></i>
 		</div>
-オフィスの住所:東京都渋谷区渋谷2-14-6西田ビル5F</div>
+</div>
 	
 	<!-- COMPANY EMAIL-->
 	<div class="col-md-2 company-details">
 		<div class="icon-top green-text">
 		<i class="icon-fontawesome-webfont-329"></i>
 		</div>
-		 s.mari@miup.jp
+		
 	</div>
 	
 	<!-- COMPANY PHONE NUMBER -->
