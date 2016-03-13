@@ -412,19 +412,15 @@ Assistant Professor of Health Intelligence Center at the university of Tokyo and
 				  <dd>miup Inc.</dd>
 				  <dt>Co-founder CEO</dt>
 				  <dd>MARI SAKO</dd>
-				
+				  <dt>E-mail</dt>
+				  <dd>s.mari@miup.jp</dd>
 				  <dt>Adress</dt>
-				  <dt>JAPAN      1-11-1 Kitayoshi,Nishi-ku, Yokohama.Kanagawa  <br>
+				  <dd>JP: 1-11-1 Kitayoshi, Nishi-ku, Yokohama-shi, Kanagawa, Japan  </dd>
 				  <br>
-				  <dt>Bangladesh Road - 113/A, Plot - 03, Gulshan - 2,Dhaka - 1212,Bangladesh </dt>
-				    <br> 
-				    <br>
-				
-				    </dd>
-				    
-				    
-				    
-		    </dl>
+				  <dd>BD: Road-113/A, Plot-03, Gulshan-2, Dhaka-1212, Bangladesh </dd>
+				  <br> 
+				  <br>
+			  </dl>
             
 			  <h5>&nbsp;</h5>
            
@@ -453,23 +449,23 @@ Assistant Professor of Health Intelligence Center at the university of Tokyo and
    CONTACT US         
 ============================== -->
 
-<section class="contact-us" id="contact">
+<!---section class="contact-us" id="contact">
 <div class="container">
 	
 	<!-- SECTION HEADER -->
-    <div class="section-header">
+    <!--div class="section-header">
 		
 		<!-- SECTION TITLE -->
-		<h2 class="white-text">contact</h2>
+		<!--h2 class="white-text">contact</h2!-->
 		
 	  <!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 	  <!--h6 class="white-text">株式会社miupの各種サービス・提携についてのご質問、資料請求や取材のご依頼などは、こちらのお問い合わせフォームからお願い致します。<br>
 	  なお、電話でのお問い合わせは原則受付けておりませんので、予めご了承ください。</h6!-->
-	</div>
+	<!--/div>
 	<!-- / END SECTION HEADER -->
 	
 	<!-- CONTACT FORM-->
-	<div class="row">
+	<!--div class="row">
 		<form role="form" action="#" class="contact-form">
 			<div class="wow fadeInLeft animated" data-wow-offset="30" data-wow-duration="1.5s" data-wow-delay="0.15s">
 			<div class="col-lg-4 col-sm-4">
@@ -490,8 +486,8 @@ Assistant Professor of Health Intelligence Center at the university of Tokyo and
 		</form>
 	</div>
 	<!-- / END CONTACT FORM-->
-</div> <!-- / END CONTAINER -->
-</section> <!-- / END CONTACT US SECTION-->
+<!--/div!--> <!-- / END CONTAINER -->
+<!--/section!--> <!-- / END CONTACT US SECTION-->
 
 <!-- =========================
    FOOTER             
