@@ -187,7 +187,8 @@
 	<div class="section-header">
 		
 		<!-- SECTION TITLE -->
-		<h2 class="dark-text">We create Integrated Medical Eco-system</h2>
+		<h2 class="dark-text">We create Integrated <br>
+		Medical Eco-system</h2>
 		
 		<!-- SHORT DESCRIPTION ABOUT THE SECTION -->
 		<h6>
@@ -231,7 +232,7 @@
 			<h6 class="white-text">
 				Technological innovation is moving ever more rapidly and the explosion in big data is a challenge but also an opportunity.
 At miup Inc. , our team members have extensive and broad experience in the state-of-the-art technology, and continue to research to maximize the value of technology. We will keep innovating to ensure that  people around the world to have access to better social welfare. 
-IT evolves everyday and we are always filled with large amount of information.<br>
+
 			</h6>
 				
 			</p>
@@ -314,7 +315,7 @@ We are especially focused on technology transfer and innovation from developed c
 		<div class="col-lg-3 col-sm-3">
 			<div class="team-member">
 				<figure class="profile-pic">
-				<img src="images/team/pic3.jpg" alt="">
+				<img src="images/team/yomoyuki_cut_1.git" alt="">
 				</figure>
 				<div class="member-details">
 				  <h5 class="dark-text green-border-bottom">Tomoyuki Yamada(Ph.D)</h5>
@@ -413,10 +414,10 @@ Assistant Professor of Health Intelligence Center at the university of Tokyo and
 				  <dt>Adress</dt>
 				  <dt>JAPAN      1-11-1 Kitayoshi,Nishi-ku, Yokohama.Kanagawa  <br>
 				  <br>
-				  <dt>Bangladesh Road - 113/A, Plot - 03, Gulshan - 2,Dhaka - 1212,BangladeshRoad - 113/A</dt>
+				  <dt>Bangladesh Road - 113/A, Plot - 03, Gulshan - 2,Dhaka - 1212,Bangladesh </dt>
 				    <br> 
 				    <br>
-				 <a href="http://jp.freepik.com/free-photos-vectors/食べ物">食べ物 Freepikによるベクターデザイン</a>
+				
 				    </dd>
 				    
 				    
@@ -516,9 +517,10 @@ Assistant Professor of Health Intelligence Center at the university of Tokyo and
 	<div class="col-md-2 company-details">
 		<div class="icon-top blue-text">
 		<i class="icon-fontawesome-webfont-101"></i>
+	
 		</div>
 	</div>
-	
+	<p><a href="http://jp.freepik.com/free-vector/ベクター画像_841386.htm">Freepikによるデザイン</a></p>
 	
 </footer> <!-- / END FOOOTER  -->
 
