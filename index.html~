@@ -2,9 +2,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<meta name="description" content="Beautiful Responsive Animated OnePage Template" />
-<meta name="keywords" content="Zerif, responsive, html, template, creative"/>
-<meta name="author" content="Mizanur Rahman" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>miup Inc. Front Page</title>
 
@@ -346,12 +343,15 @@ Assistant Professor of Health Intelligence Center at the university of Tokyo and
 				</div>
 				
 				<div class="details">
-					<p>The doctor shortage is worse than what most people think ... Although there still exists a vast amount of problems all over the world, this is clearly the one of most important issues, especially in developing countries. I believe that A.I. has much more potential for developing countries than for developed countries. </p>
-				</div>
+					<p>The shortage of doctors is the worldwide problem.The shortage of doctors is a worldwide problem and demand for doctors is continuing to grow faster than supply .This requires a multi-pronged approach. Innovation such as A.I. is one way to ease the problem for developed and even more for developing countries.</p>
 			</div>
 		</div>
+<<<<<<< HEAD
 
+		<div class="col-lg-2 col-sm-2">
+=======
 				<div class="col-lg-3 col-sm-3">
+>>>>>>> 2b162ddea5b11fcd6041257f4cd6353a6fd3ffbb
 			<div class="team-member">
 				<figure class="profile-pic"> 
 				<img src="images/team/ifty_org.jpg" alt="Ifty Islam" width="199" height="256"> <!-- MEMBER PROFILE PIC -->
