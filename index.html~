@@ -347,32 +347,25 @@ Assistant Professor of Health Intelligence Center at the university of Tokyo and
 				</div>
 			</div>
 		</div>
-<<<<<<< HEAD
-
-		<div class="col-lg-2 col-sm-2">
-=======
-				<div class="col-lg-3 col-sm-3">
->>>>>>> 2b162ddea5b11fcd6041257f4cd6353a6fd3ffbb
-			<div class="team-member">
-				<figure class="profile-pic"> 
-				<img src="images/team/ifty_org.jpg" alt="Ifty Islam" width="199" height="256"> <!-- MEMBER PROFILE PIC -->
-				</figure>
-				<div class="member-details">
-				  <h5 class="dark-text green-border-bottom">Ifty Islam</h5>
-					<div class="position">
-					        <b>Director of Business Development </b><br>
-						<b>CEO of miup Bangladesh </b><br>
-						 Prior to moving to Bangladesh in 2007, Ifty spent 18 years in investment banking latterly as a Managing Director at Citigroup, where he was Head of Macro. He graduated from the Queen's College, Oxford with a BA/MA (First Class) in Politics, Philosophy and Economics.
-					</div>
-				</div>
-				
-				<!--div class="details">
-					<p>Hi, I'm Ifty!!</p>
-				</div!-->
-			</div>
+		<div class="col-lg-3 col-sm-3">
+		  <div class="team-member">
+		    <figure class="profile-pic"> 
+		      <img src="images/team/ifty_org.jpg" alt="Ifty Islam" width="199" height="256"> <!-- MEMBER PROFILE PIC -->
+		    </figure>
+		    <div class="member-details">
+		      <h5 class="dark-text green-border-bottom">Ifty Islam</h5>
+		      <div class="position">
+			<b>Director of Business Development </b><br>
+			<b>CEO of miup Bangladesh </b><br>
+			Prior to moving to Bangladesh in 2007, Ifty spent 18 years in investment banking latterly as a Managing Director at Citigroup, where he was Head of Macro. He graduated from the Queen's College, Oxford with a BA/MA (First Class) in Politics, Philosophy and Economics.
+		      </div>
+		    </div>
+		    
+		    <!--div class="details">
+			<p>Hi, I'm Ifty!!</p>
+		    </div!-->
+		  </div>
 		</div>
-
-	
 	</div> <!-- / END TEAM MEMBER LIST -->
 	
 </div> <!-- / END CONTAINER -->
