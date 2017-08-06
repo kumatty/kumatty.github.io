@@ -5,6 +5,6 @@ cnt = 0;
 function changeImage() {
   cnt++;
   cnt %= num;
-  document.img.src = “img/miup_aboutus1s.jpg”
-  alert(“OK”)
+  document.img.src = “img/miup_aboutus1s.jpg”;
+  alert(“OK”);
 }
