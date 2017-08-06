@@ -35,7 +35,7 @@ a:focus {
     text-decoration: none;
     color: #ffcc33;
 }
-.highlight { color: #ffcc33 }
+.highlight { color: #00ceD1 }
 .clearfix:after {
     visibility: hidden;
     display: block;
@@ -50,12 +50,12 @@ a:focus {
 /* Navigation */
 #tf-menu {
     margin-bottom: 0;
-    background-color: #ffffff;
+    background-color: #00CED1;
     padding: 10px 0;
     height: auto;
 }
 .navbar-brand img {
-    height: 30px;
+    height: 40px;
     width: auto;
 }
 .navbar-brand { padding: 12px 15px }
@@ -120,6 +120,7 @@ a:focus {
     padding: 20% 0;
     background-attachment: fixed;
 }
+#tf-menu a { color: #ffffff }
 #tf-home h1 { color: #ffcc33 }
 .content-heading p.lead { margin-bottom: 80px }
 a.goto-btn {
@@ -360,6 +361,7 @@ h4.media-heading {
 /* About Us */
 #tf-about { padding: 40px 0 }
 .gray-bg { background-color: #f3f3f3 }
+.green-bg { background-color: #07BC83 }
 .img-wrap .profile-img {
     position: relative;
     margin-bottom: 40px;
@@ -967,7 +969,7 @@ p.help-block.text-danger ul li {
 /* Footer */
 #tf-footer {
     padding: 3% 0 2% 0;
-    background-color: #e5b112;
+    background-color: #00CED1;
     color: #ffffff;
 }
 ul.social li a i {
