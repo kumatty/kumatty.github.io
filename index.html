@@ -107,19 +107,39 @@
             </div>
 
             <div class="row"> <!-- row -->
-               <html>
-				  <head>
-					<img src="img/miup_pack10.jpg" name="img" border="0" onclick="changeImage();">
-				  </head>
-				</html>
-                <div class="col-md-4 text-right">  <!-- Left Content Col 6 -->
-                <img src="img/miup_pack10.jpg" width="290" height="400" alt=""/> <br></div> 
+				  <SCRIPT type="text/javascript">
+					  num = 2; // 入れ替える画像の枚数(最初の画像も含める)
+					  nme1 = "img/miup_pack1" // 画像のディレクトリとファイル名の数字と拡張子より前の部分
+					  nme2 = "img/miup_pack2" // 画像のディレクトリとファイル名の数字と拡張子より前の部分
+					  nme3 = "img/miup_pack3" // 画像のディレクトリとファイル名の数字と拡張子より前の部分
+					  exp = "jpg" // 拡張子
+					  cnt1 = 0;
+					  cnt2 = 0;
+					  cnt3 = 0;
+				  	  function showimg1(){
+					     cnt1++;
+						 cnt1 %= num;
+						 document.img1.src = nme1 + cnt1 + "." + exp;
+					  }
+					  function showimg2(){
+					     cnt2++;
+						 cnt2 %= num;
+						 document.img2.src = nme2 + cnt2 + "." + exp;
+					  }
+				  	  function showimg3(){
+					     cnt3++;
+						 cnt3 %= num;
+						 document.img3.src = nme3 + cnt3 + "." + exp;
+					  }
+				  </SCRIPT>
+				<div class="col-md-4 text-right">  <!-- Left Content Col 6 -->
+                <img src="img/miup_pack10.jpg" name="img1" border="0" onclick="showimg1();" width="290" height="400" alt=""/> <br></div>
                 <!-- End Left Content Col 6 -->
                 <div class="col-md-4 text-right">  <!-- Left Content Col 6 -->
-                <img src="img/miup_pack20.jpg" width="290" height="400" alt=""/> <br></div> 
+                <img src="img/miup_pack20.jpg" name="img2" border="0" onclick="showimg2();" width="290" height="400" alt=""/> <br></div>
                 <!-- End Left Content Col 6 -->
                 <div class="col-md-4 text-right">  <!-- Left Content Col 6 -->
-                <img src="img/miup_pack30.jpg" width="290" height="400" alt=""/> <br></div> 
+                <img src="img/miup_pack30.jpg" name="img3" border="0" onclick="showimg3();" width="290" height="400" alt=""/> <br></div>
                 <!-- End Left Content Col 6 -->
 				
                 <!-- End Left Content Col 6 -->                <!-- end Right Content Col 6 -->
@@ -405,7 +425,6 @@ We would like to contribute to your healthy life and further development of Bang
     <!-- Javascripts
     ================================================== -->
     <script type="text/javascript" src="js/main.js"></script>
-    <script type="text/javascript" src="js/addon.js"></script>
 
   </body>
 </html>
