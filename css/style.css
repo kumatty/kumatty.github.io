@@ -27,7 +27,7 @@ h2 {
 h5 { font-size: 16px }
 p { font-size: 14px }
 p.resizeimage { width: 50%; }
-p.resizeimage img { width: 80%; }
+p.resizeimage img { width: 100%; }
 p.resizeimage {
    max-width: 600px; /* 最大幅 */
    min-width: 120px; /* 最小幅 */
