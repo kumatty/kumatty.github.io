@@ -26,6 +26,12 @@ h2 {
 }
 h5 { font-size: 16px }
 p { font-size: 14px }
+p.resizeimage { width: 50%; }
+p.resizeimage img { width: 100%; }
+p.resizeimage {
+   max-width: 600px; /* 最大幅 */
+   min-width: 240px; /* 最小幅 */
+}
 a {
     color: inherit;
     transition: all 0.5s;
@@ -290,6 +296,25 @@ a.goto-btn { margin-right: 30px }
 }
 .section-header h2 { text-transform: uppercase }
 .section-header h5 { letter-spacing: 1px }
+.pattern3 {
+  width: 300px;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+  border: 1px solid red;
+}
+
+.pattern3 img {
+  position: absolute;
+  width: auto;
+  height: auto;
+  min-width: 100%;
+  min-height: 100%;
+  left: 50%;
+  top: 50%;
+  -webkit-transform: translate3d(-50%, -50%, 0);
+          transform: translate3d(-50%, -50%, 0);
+}
 .fancy {
     line-height: 0.5;
     text-align: center;
