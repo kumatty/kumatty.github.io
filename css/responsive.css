@@ -16,7 +16,7 @@
     }
     .navbar-fixed-top .navbar-collapse, 
     .navbar-fixed-bottom .navbar-collapse {
-	  max-height: 420px;
+	  max-height: 480px;
 	  text-align: center;
 	}
 	.gray-bg .vline {
@@ -59,6 +59,7 @@
 	#itemsWorkTwo .box .hover-text i.fa {
 	    top: 0%;
 	}
+	
 }
 @media (max-width: 768px) {
 	#tf-home.slider .content-heading {
@@ -93,13 +94,13 @@
     .ipad-wrapper .app-wrap {left: 3%;}
 }
 @media (max-width: 360px) { 
-	#tf-services,
-	#tf-pricing,
+	#tf-service,
+	#tf-package-detail,
 	.section-header,
 	.about-right-content,
 	#tf-features, 
 	#feature,
-	#tf-works,
+	#tf-team,
 	#tf-blog,
 	#tf-contact {
 	  padding: 20px 0;
