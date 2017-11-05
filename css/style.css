@@ -12,10 +12,11 @@ html {
 ::-webkit-scrollbar-track { background: rgba(0, 0, 0, 0.1); }
 ::-webkit-scrollbar-thumb { background: rgba(0, 0, 0, 0.5); }
 
-
+/*
 @media (min-width: 1200px) { 
     .container { width: 1100px }
 }
+*/
 
 /* Old code
 h1 {
@@ -85,7 +86,6 @@ h6 {
 	left: 12.5%;
 }
 
-p { font-size: 14px }
 p.resizeimage { width: 50%; }
 p.resizeimage img { width: 100%; }
 p.resizeimage {
@@ -121,6 +121,15 @@ a:focus {
     padding: 10px 0;
     height: auto;
 }
+#tf-menu .lower-text{
+    color:white;
+}
+#tf-menu .japanese-quality{
+    float:left;
+}
+#tf-menu .office-info{
+    float:right;
+}
 .navbar-brand img {
     height: 40px;
     width: auto;
@@ -132,7 +141,6 @@ a:focus {
     border-bottom: 2px solid transparent;
     padding: 5px 5px;
     margin: 8px 10px;
-    text-transform: uppercase;
     transition: all 0.5s;
 }
 .navbar-default .navbar-nav > li > a.active,
@@ -170,7 +178,7 @@ a:focus {
 #tf-header .breadcrumb > li a { color: #ffffff }
 /* Home Style */
 #tf-home {
-    background: url(../img/bg/miup_bg.jpg);
+    background: url(../img/bg/HouseCallDoctor.jpeg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -188,12 +196,20 @@ a:focus {
     background-attachment: fixed;
 }
 #tf-menu a { color: #ffffff }
-#tf-home h1 { color: #01CED1 }
+#tf-home h1 { color: #31859C }
 .content-heading p.lead { 
     margin-bottom: 80px;
-    color: black;
-
+    color:#595959;
 }
+#tf-home .call-us-for-booking {
+    color: #FF0066;
+    font-size: 30px;
+}
+#tf-home .call-us-for-booking-num {
+    color: black;
+    font-size: 60px;
+}
+
 a.goto-btn {
     color: black;
     font-size: 18px;
@@ -357,7 +373,16 @@ a.goto-btn { margin-right: 30px }
 /* Package Outline Section */
 #tf-package { padding: 60px 0 }
 /* Service Section */
-#tf-service { padding: 60px 0 }
+#tf-service { 
+    padding: 60px 0;
+    background-color: #9ac0fe;
+}
+#tf-service .highlight{
+    color: white;
+}
+#tf-service .text{
+    font-size: 18px;
+}
 .section-header {
     padding: 40px 0;
     text-align: center;
@@ -365,6 +390,9 @@ a.goto-btn { margin-right: 30px }
 .section-header h2 { text-transform: uppercase }
 .section-header h5 { letter-spacing: 1px }
 #tf-whymysheba { padding: 60px 0 }
+#tf-whymysheba .highlight{
+    text-transform: none;
+}
 .whymysheba-box{
     margin: 0 15px 30px;
 }
@@ -377,6 +405,97 @@ a.goto-btn { margin-right: 30px }
     font-weight: bold;
     font-size: 20px;
 }
+.whymysheba-box .strength{
+    margin: 0 10px;
+    padding: 5px 10px;
+}
+.whymysheba-box .strength .upper{
+    margin: 0 0 10px;
+    font-size: 24px;
+    
+}
+.whymysheba-box .strength .lower{
+    font-size: 18px;
+}
+.whymysheba-box .anytime{
+    color: white;
+    background: #47aad6;
+}
+.whymysheba-box .only15min{
+    color: #536980;
+    background: #d5fdfe;
+}
+.whymysheba-box .japanese-quality{
+    color: white;
+    background: #64d6d7;
+}
+
+#tf-service-flow{
+    padding: 60px 0;
+}
+#tf-service-flow .flow-chart{
+    background-color: #64d6d7;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    height: 400px;
+    font-size: 20px;
+}
+#tf-service-flow .flow-chart .title{
+    margin: 10px auto;
+}
+#tf-service-flow .flow-chart .title .flow-number{
+    float: left;
+}
+#tf-service-flow .flow-chart .title .flow-number .number{
+    background-color: white;
+    color:  #64d6d7;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    border-radius: 15px;
+    
+}
+#tf-service-flow .flow-chart .title .text{
+    margin: 0 30px;
+}
+#tf-service-flow .flow-chart .picture{
+    width: 100%;
+    margin: 0 auto;
+}
+#tf-service-flow .flow-chart .option{
+    margin-left: 40px;
+}
+#tf-service-flow .flow-chart .option .option-title{
+    font-weight: bold;
+    margin: 0;
+    position: relative;
+}
+#tf-service-flow .flow-chart .option .option-title .white-box{
+    background-color: white;
+    color:  #64d6d7;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+    position: absolute;
+    top: 0px;
+    left: -30px;
+}
+#tf-service-flow .flow-chart .option .option-body{
+    padding: 20px;
+    border: 5px solid white;
+    margin: 0;
+}
+
+#tf-service-flow .flow-chart .option .option-body .text{
+    margin-bottom: 20px;
+}
+#tf-service-flow .flow-chart .option .option-body .picture{
+    
+}
+
+
 .margin-bottom{
     margin-bottom: 40px;
 }
@@ -597,9 +716,25 @@ ul.social li a.fa:hover { background-color: #333333 }
 }
 .count-box.last { border-right: 1px solid #d3d3d3 }
 /* Portfolio / Works Sections */
-#tf-team { padding: 60px 0 }
+#tf-team { 
+    padding: 60px 0;
+    background-color: #9ac0fe;
+}
+#tf-team span.highlight{ color:white; }
 .team-member{
     margin: 50px auto 100px;
+}
+#tf-team a{ 
+    color: white;
+}
+#tf-team .introduction{ 
+    font-size: 18px;
+}
+#tf-team .job-position{ 
+    margin: 60px 0 30px;
+    font-size: 36px;
+    color: white;
+    font-family: 'Montserrat', 'sans-serif';
 }
 .team-member h3{
     color: #404040;
@@ -915,6 +1050,13 @@ ul.cat li a.active {
 .work-related-thumb .img-thumbnail:hover { opacity: 0.8 }
 /* Process Section */
 #tf-lab {margin: 60px 0}
+#tf-lab .introduction{
+    padding: 20px 100px;
+    text-align: center;
+    font-size: 18px;
+    color:black;
+    background-image:url('../img/lab/background.jpg');
+}
 .process i.fa {
     text-align: center;
     font-size: 30px;
@@ -1299,7 +1441,7 @@ ul.meta-tags li:last-child:after { content: ' ' }
 /* header */
 .book-button{
 margin: 10px;
-background: #EEAF3D;
+background: #FF818F;
 border-radius: 5px;
 color: white;
 display: inline-block;
@@ -1325,9 +1467,14 @@ color:inherit;
 
 
 /* the outline of a package. the detail is shown later */
+.package-outer-background{
+    padding: 10px;
+    background-color: #c3e4ed;
+}
 .package-outline{
-margin: 30px auto;
+margin: 0;
 width: 360px;
+background-color: white;
 border: solid 2px #01CED1;
 text-align: center;
 }
@@ -1337,12 +1484,17 @@ background: #01CED1;
 color: #fff;
 font-size: 12px;
 }
+.package-outline-header h1{
+    text-transform: none;
+}
 .package-outline h1{
 margin: 0px;
 font-size: 24px;
 }
 .package-outline-price{
 font-size: 24px;
+text-decoration: line-through;
+
 }
 .package-outline-description{
 margin: 0px;
@@ -1360,6 +1512,9 @@ font-size: 12px;
 }
 ul.package-outline-bullets li:before {
 content: '✓';
+}
+ul.package-outline-bullets li {
+    font-weight: bold;
 }
 .package-outline-body-disease{
     margin: 0 0;
@@ -1397,6 +1552,21 @@ width: 120px;
 vertical-align: top;
 display: inline-block;
 }
+.package-outline-sale-price span.sale{
+    color:#ea3729;
+    font-size: 24px;
+    font-weight: bold;
+}
+.package-outline-sale-price span.price{
+    color: #ea3729;
+    font-size: 28px;
+    text-decoration: underline;
+}
+.package-outline-sale-price span.currency{
+    color: black;
+    font-size: 28px;
+}
+
 .package-outline-readmore{
 margin: 10px;
 background: #EEAF3D;
@@ -1423,7 +1593,7 @@ color:inherit;
 
 /* '+' mark by css */
 .cross{
-margin: 10px auto 40px;
+margin: 40px auto 40px;
 background: #01CED1;
 height: 55px;
 position: relative;
@@ -1441,23 +1611,34 @@ width: 55px;
 
 /* package option description */
 .package-option{
-margin: 5px auto;
-padding: 15px;
-border-radius: 8px;
-text-align: left;
-font-size: 16px;
-display:block;
-border: solid 4px #ffd07c;
+    margin: 5px auto;
+    text-align: left;
+    display:inline-block;
+}
+.package-option-left{
+    padding: 10px;
+    color : #ea3729;
+    display:inline-block;
+    font-size: 32px;
+}
+.package-option-right{
+    padding: 10px;
+    font-size: 16px;
+    display:inline-block;
+    border: solid 2px #77a5d2;
 }
 .package-option-title{
 font-weight: bold;
+color:#77a5d2;
 display:inline-block;
 font-size: 20px;
 }
 .package-option-price{
-font-weight: bold;
 display:inline-block;
 font-size: 24px;
+}
+.package-option-price span.bold{
+    font-weight: bold;
 }
 
 /* why my sheba section */
@@ -1664,10 +1845,24 @@ color:inherit;
     color: #FF818F;
 }
 
-
-
-
-
+#tf-booking{
+    background-color: #9ac0fe;
+}
+#tf-booking .booking{
+    margin: 60px;
+    padding: 30px;
+    height:540px;
+    text-align: center;
+    color: white;
+    background: url('../img/booking/booking.jpg') no-repeat; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#tf-booking .booking h1,h2,h3,h4,h5{
+    text-transform: none;
+}
 
 .check-colors-with-visual-studio-code{
 	background: #00CED1;
